@@ -1,19 +1,17 @@
 
 <h1 align="center">Hola👋, Says Priyam Pal</h1>
-<h3 align="center">Artificial Intelligence and Machine Learning Engineer</h3>
+<h3 align="center">AI Practitioner and Data Scientist </h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam-hub&label=Profile%20views&color=0e75b6&style=flat" alt="priyam-hub" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pri6369" target="blank"><img src="https://img.shields.io/twitter/follow/pri6369?logo=twitter&style=for-the-badge" alt="pri6369" /></a> </p>
-
-- 🌱 I’m currently learning **Machine and Deep Learning**
+- 🌱 I’m currently learning **Large Language Model** and **Stable Diffusion XL**
 
 - 👨‍💻 All of my projects are available at [https://priyamspersonalportfolio.netlify.app/](https://priyamspersonalportfolio.netlify.app/)
 
-- 💬 Ask me about **TensorFlow and Keras**
+- 💬 Ask me about **PyTorch, Tensorflow** and **GitHub**
 
-- 📫 How to reach me **palpriyam95@gmail.com**
+- 📫 How to reach me **palpriyam95@gmail.com** or **priyam@itobuz.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1upa6ZQ5Uhhz79Kt8-poR8Ds4bskQ7PLR/view?usp=sharing](https://drive.google.com/file/d/1upa6ZQ5Uhhz79Kt8-poR8Ds4bskQ7PLR/view?usp=sharing)
 
